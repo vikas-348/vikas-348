@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vikas Chaurasiya</h1>
 <h3 align="center">Web Development | Web Designer Internship at the Spark Foundation. Final Year IT Student of St. Francis Institute of Technology.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vikas-348&label=Profile%20views&color=0e75b6&style=flat" alt="vikas-348" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vikas-348" alt="vikas-348" /></a> </p>
-
 - 🌱 I’m currently learning **Full Stack Web Development.**
 
 - 👯 I’m looking to collaborate on **Project in Web Development.**
