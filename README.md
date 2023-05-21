@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vikas Chaurasiya</h1>
 <h3 align="center">Web Development | Web Designer Internship at the Spark Foundation. Final Year IT Student of St. Francis Institute of Technology.</h3>
 
-- 🌱 I’m currently learning **Full Stack Web Development.**
+- 🌱 **Full Stack Web Development.**
 
 - 👯 I’m looking to collaborate on **Project in Web Development.**
 
